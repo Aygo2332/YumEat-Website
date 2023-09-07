@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/YumEat-Website/static/css/main.fe21dacc.css",
+    "main.js": "/YumEat-Website/static/js/main.a7be3980.js",
+    "index.html": "/YumEat-Website/index.html",
+    "main.fe21dacc.css.map": "/YumEat-Website/static/css/main.fe21dacc.css.map",
+    "main.a7be3980.js.map": "/YumEat-Website/static/js/main.a7be3980.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe21dacc.css",
+    "static/js/main.a7be3980.js"
+  ]
+}
